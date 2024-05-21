@@ -1,5 +1,5 @@
 # 91
-This repository contains the models `extract_plate.pt` which you can find [here](https://drive.google.com/file/d/1AnQbLbE4w9mcUoCK_TBRthUFy6m1oN8p/view?usp=drive_link) and `locate_plate.pt which you can find [here](https://drive.google.com/file/d/1IQyfaDGW6BhoCUtQdd1-eUgqPOL_hM0g/view?usp=drive_link). 
+This repository contains the models `extract_plate.pt` which you can find [here](https://drive.google.com/file/d/1AnQbLbE4w9mcUoCK_TBRthUFy6m1oN8p/view?usp=drive_link) and `locate_plate.pt' which you can find [here](https://drive.google.com/file/d/1IQyfaDGW6BhoCUtQdd1-eUgqPOL_hM0g/view?usp=drive_link). 
 Ensure that both files are added to the / path.
 
 
