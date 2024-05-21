@@ -2,8 +2,8 @@
 This repository contains the models `extract_plate.pt` which you can find [here](https://drive.google.com/file/d/1AnQbLbE4w9mcUoCK_TBRthUFy6m1oN8p/view?usp=drive_link) and `locate_plate.pt` which you can find [here](https://drive.google.com/file/d/1IQyfaDGW6BhoCUtQdd1-eUgqPOL_hM0g/view?usp=drive_link). 
 Ensure that both files are added to the / path.
 
-The source code of 'extract_plate.pt' can be found [here](https://colab.research.google.com/drive/1SysWSzIrbtFweXBg3VXk5tI6tkFWz5uO?usp=drive_link).
-The source code of 'locate_plate.pt' can be found [here](https://colab.research.google.com/drive/1wvpJgqDZNke_PFvFztu-Z6ffjgZuqEx8?usp=drive_link).
+The source code of `extract_plate.pt` can be found [here](https://colab.research.google.com/drive/1SysWSzIrbtFweXBg3VXk5tI6tkFWz5uO?usp=drive_link).
+The source code of `locate_plate.pt` can be found [here](https://colab.research.google.com/drive/1wvpJgqDZNke_PFvFztu-Z6ffjgZuqEx8?usp=drive_link).
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
